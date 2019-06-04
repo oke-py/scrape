@@ -4,7 +4,7 @@ Web scraping in Golang
 ## Usage
 
 ```
-$ go run main.go
+$ GO111MODULE=on go run main.go
 latest firefox is 65.0.1
 ```
 
